@@ -1,4 +1,4 @@
-# data_manager_app
+# Data Manager Application
 
 A new Flutter application.
 
